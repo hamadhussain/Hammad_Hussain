@@ -68,6 +68,6 @@
 ### 🐍 My Contributors
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hamadhussain/hamadhussain/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/hamadhussain/hamadhussain/github-user-contribution.svg" alt="snake eating my contributions" />
 </p>
 
