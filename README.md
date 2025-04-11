@@ -1,20 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamadhussain.hamadhussain" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hammad+Hussain!;Full-Stack+Developer;Cloud+and+DevOps+Enthusiast;Turning+Ideas+into+Code" alt="Typing animation">
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hey+There%2C+I'm+Hammad+Hussain;🚀+Full+Stack+Magician;🐞+Bug+Hunter;🎯+API+Integrator;⚙️+DevOps+Explorer" alt="Typing animation">
+</p>
 
-<h3 align="center">🚀 Building modern web solutions that scale | Passionate about Full Stack, Cloud, and DevOps</h3>
-
----
-
-### 💡 About Me
-
-- 🎓 Pursuing BS Software Engineering @ Sir Syed University  
-- 🌐 Skilled in Full-Stack Dev, Cloud, and API Integrations  
-- 💼 Interned at Techverian (Malaysia) & Bestosoft (Karachi)  
-- 💬 Ask me about anything web-related or devops-y  
-- ☕ Fuel: Code + Coffee = 💡  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FF00F7&background=000000&center=true&vCenter=true&width=600&lines=Crafting+robust+cloud-native+apps;Turning+coffee+into+deployments;Polishing+frontend+to+backend+flows" alt="Subtitle animation">
+  </a>
+</p>
 
 ---
 
@@ -27,15 +21,15 @@
 
 ---
 
-### 🧠 Skills & Tech Stack
+## 💻 Tech Stack
 
-**Languages:** JavaScript • TypeScript • Java • Python  
-**Frontend:** React • Next.js • Vue • Nuxt • Tailwind CSS • Three.js  
-**Backend:** Node.js • Express • Java (Spring Boot)  
-**Databases:** MongoDB • Firebase • MySQL • PostgreSQL • Prisma  
-**Cloud & DevOps:** AWS • Vercel • Docker • Kubernetes  
-**Tools:** Git • GitHub • Figma • REST APIs • WebGL • TensorFlow  
-**Concepts:** Full-Stack Development • 3D Web • API Integration • Agile • Microservices  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,bash" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,threejs" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,docker,kubernetes,aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,prisma" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,webflow,postman" />
+</p>
 
 ---
 
@@ -53,7 +47,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamadhussain&theme=darkhub&no-bg=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hamadhussain&theme=onedark&no-frame=false&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -71,3 +65,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/hamadhussain/hamadhussain/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </p>
+
