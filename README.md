@@ -44,7 +44,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamadhussain&theme=radical&border_radius=10" width="800" height="400" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadhussain&layout=compact&theme=radical" width="800" height="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadhussain&layout=compact&theme=radical" width="850" height="400"/>
 </div>
 
 ---
