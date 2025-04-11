@@ -49,19 +49,20 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamadhussain&theme=onedark&no-frame=false&no-bg=true&margin-w=10" />
-</p>
-
----
 ### 🐍 My Contributors
 
 <p align="center">
   <img src="https://github.com/hamadhussain/hamadhussain/blob/main/github-user-contribution.svg" alt="snake eating my contributions" />
 </p>
 
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamadhussain&theme=onedark&no-frame=false&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
