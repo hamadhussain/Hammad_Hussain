@@ -39,10 +39,10 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamadhussain&show_icons=true&theme=radical&border_radius=10" width="400" height="200" style="margin-bottom: 20px"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamadhussain&theme=radical&border_radius=10" width="400" height="250" style="margin-bottom: 20px"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=hamadhussain&show_icons=true&theme=radical&border_radius=10" width="400" height="200" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamadhussain&theme=radical&border_radius=10" width="400" height="250" />
+    <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadhussain&layout=compact&theme=radical" width="400" height="200"/>
 </div>
 
