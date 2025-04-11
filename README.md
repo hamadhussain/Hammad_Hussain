@@ -39,11 +39,11 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamadhussain&show_icons=true&theme=radical&border_radius=10" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamadhussain&show_icons=true&theme=radical&border_radius=10" width="800" height="400" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamadhussain&theme=radical&border_radius=10" width="400" height="250" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamadhussain&theme=radical&border_radius=10" width="800" height="400" />
     <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadhussain&layout=compact&theme=radical" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadhussain&layout=compact&theme=radical" width="800" height="400"/>
 </div>
 
 
