@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamadhussain.hamadhussain" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=🖐️+Hi%2C+I'm+Hammad+Hussain;🚀+Full+Stack+Magician;🐞+Bug+Hunter;🔭+Observing+bugs+through+the+devscope;🪄+UI+enchantments+%26+backend+black+magic" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=🖐️+Hi%2C+I'm+Hammad+Hussain;🚀+Full+Stack+Magician;🐞+Bug+Hunter;🔭+Observing+bugs+through+the+devscope;🪄+UI+enchantments+%26+backend+black+magic" alt="Typing animation">
 </p>
 
 <p align="center">
