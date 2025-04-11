@@ -56,18 +56,18 @@
 </p>
 
 ---
+### 🐍 My Contributors
+
+<p align="center">
+  <img src="https://github.com/hamadhussain/hamadhussain/blob/main/github-user-contribution.svg" alt="snake eating my contributions" />
+</p>
+
+
+---
 
 ### ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 My Contributors
-
-<p align="center">
-  <img src="https://github.com/hamadhussain/hamadhussain/blob/main/github-user-contribution.svg" alt="snake eating my contributions" />
 </p>
 
