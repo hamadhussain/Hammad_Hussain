@@ -14,13 +14,14 @@
 
 ### 🌐 Connect with Me
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammad31012004@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammadhussaindeveloper)
-  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamadhussain)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hammad-lilac.vercel.app)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hammad_hhn/)
-  [![Facebook](https://img.shields.io/badge/Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100035646300861&_rdc=1&_rdr#)
-
+<p align="center">
+  <a href="mailto:hammad31012004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hammadhussaindeveloper"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/hamadhussain"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://portfolio-hammad-lilac.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.instagram.com/hammad_hhn/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://web.facebook.com/profile.php?id=100035646300861&_rdc=1&_rdr#"><img src="https://img.shields.io/badge/Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -42,10 +43,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hamadhussain&show_icons=true&theme=radical&border_radius=10" width="800" height="400" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamadhussain&theme=radical&border_radius=10" width="800" height="400" />
-    <br/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamadhussain&layout=compact&theme=radical" width="800" height="400"/>
 </div>
-
 
 ---
 
@@ -54,7 +54,6 @@
 <p align="center">
   <img src="https://github.com/hamadhussain/hamadhussain/blob/main/github-user-contribution.svg" alt="snake eating my contributions" />
 </p>
-
 
 ---
 
